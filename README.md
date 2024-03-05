@@ -1,6 +1,6 @@
 # Pizza Huts Sales Forecasting Model
-# Name: Lai Minh Thong
-# ID: U2259343
+## Name: Lai Minh Thong
+## ID: U2259343
 
 ## Description:
 This GitHub repository contains the solution to a placement interview task aimed at demonstrating proficiency in Python and ML concepts. As a data analyst/programmer working for Pizza Hut, the task involves completing a project left unfinished by a previous employee. The objective is to predict sales across all physical locations based on provided sales data.
