@@ -13,7 +13,12 @@ The Brief: Detailed instructions and objectives provided by the manager overseei
 Primary Tasks:
 #### Task 1: Loading and formatting the provided JSON data.
 #### Task 2: Developing and optimizing a time series model for sales prediction.
-#### Task 3: Extending the model to forecast sales for multiple months in advance.
+#### Task 3: Make predictions and extend the model to forecast sales for multiple months in advance.
 #### Task 4: Generating a CSV file with predicted sales for the next 12 months.
 
 Software Versions: Python 3.11.3
+
+## Other Projects of mine:
+1) [Student Performance Prediction and Comparison of Machine Learning Models](https://github.com/ThongLai/StudentDropout_RiskAnalyzer)
+3) [Eye-tracking in Reading Comprehension (Anomaly Detection and Data Analytics)](https://github.com/ThongLai/Eye-tracking-in-Reading-Comprehension)
+4) [3D Metal Printer Error Detection](https://github.com/ThongLai/3D-Metal-Printer-Error-Detection)
