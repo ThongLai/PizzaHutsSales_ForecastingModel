@@ -14,7 +14,6 @@ This GitHub repository contains the solution to a placement interview task aimed
 ## Key Components:
 ### Tasks Overview: The project is divided into primary tasks, with an optional secondary task for those with JavaScript experience.
 Concept: Participants assume the role of a data analyst at Pizza Hut, tasked with completing a sales prediction project.
-Questions: Contact information for assistance or inquiries is provided for clarification or support during the task.
 The Brief: Detailed instructions and objectives provided by the manager overseeing the project.
 Primary Tasks:
 #### Task 1: Loading and formatting the provided JSON data.
