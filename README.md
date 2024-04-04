@@ -3,7 +3,7 @@
 ## ID: U2259343
 
 ## Description:
-This GitHub repository contains the solution to a placement interview task aimed at demonstrating proficiency in Python and ML concepts. As a data analyst/programmer working for Pizza Hut, the task involves completing a project left unfinished by a previous employee. The objective is to predict sales across all physical locations based on provided sales data.
+This GitHub repository contains the solution to tasks aimed at demonstrating proficiency in Python and ML concepts. As a data analyst/programmer working for Pizza Hut, the task involves completing a project left unfinished by a previous employee. The objective is to predict sales across all physical locations based on provided sales data.
 
 <img src="https://github.com/ThongLai/PizzaHutsSales_ForecastingModel/assets/63563631/f080835e-c585-437c-b06b-5313651dfcdb" width=45%>
 <img src="https://github.com/ThongLai/PizzaHutsSales_ForecastingModel/assets/63563631/b8469f1f-bf84-409d-8c73-671622492f02" width=45%>
