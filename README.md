@@ -15,6 +15,7 @@ This GitHub repository contains the solution to tasks aimed at demonstrating pro
 ### Tasks Overview: The project is divided into primary tasks, with an optional secondary task for those with JavaScript experience.
 Concept: Participants assume the role of a data analyst at Pizza Hut, tasked with completing a sales prediction project.
 The Brief: Detailed instructions and objectives provided by the manager overseeing the project.
+
 Primary Tasks:
 #### Task 1: Loading and formatting the provided JSON data.
 #### Task 2: Developing and optimizing a time series model for sales prediction.
